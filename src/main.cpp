@@ -1,4 +1,5 @@
 // MemCLI — universal Windows process memory tool
+#define NOMINMAX
 // Commands: attach, read, write, scan, modules, help
 // Build: cl main.cpp /EHsc /O2 /Fe:memcli.exe
 
